@@ -1,0 +1,2 @@
+# Forecasting_Traffic_Speed_Across_Road_Networks_with_Traditional_ML
+Built an end-to-end ML system for traffic intelligence using real-world sensor data. The project forecasts short-term traffic speed, classifies road conditions (Jam/Slow/Free), and discovers hidden traffic patterns with K-Means. Focused on time-series feature engineering, time-aware validation, robust ML pipelines, and ready model deployment.
